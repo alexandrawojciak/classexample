@@ -5,7 +5,7 @@
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
        banner="https://d2o2figo6ddd0g.cloudfront.net/f/f/baf5kt4a8y6naf/wojciak_ola_hs.jpg" 
-       layout="vertical">
+       layout="horizontal">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
